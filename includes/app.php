@@ -14,7 +14,7 @@ error_reporting(-$_ENV['DEBUG_MODE']);
 
 require 'funciones.php';
 require 'database.php';
-// Conectarno s a la base de datos prueba
+// Conectarno s a la base de datos prueba2
 
 
 ActiveRecord::setDB($db);
